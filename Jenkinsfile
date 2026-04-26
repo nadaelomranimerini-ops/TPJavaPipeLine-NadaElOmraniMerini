@@ -26,9 +26,9 @@ pipeline {
             }
         }
 
-        stage('Docker Build') {
+        stage('Docker Info') {
             steps {
-                sh 'docker build -t java-pipeline-app .'
+                echo 'Docker sera exécuté localement pour générer l image du projet.'
             }
         }
     }
