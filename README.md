@@ -72,89 +72,185 @@ Pipeline exécuté avec succès.
 
 Finished: SUCCESS
 
-!\[1](<screenshots/Screenshot 2026-04-26 182635.png>)
 
-!\[2](<screenshots/Screenshot 2026-04-26 182844.png>)
 
-!\[Dépôt3 GitHub](<screenshots/Screenshot 2026-04-26 183658.png>)
+Donc juste après les trois ``` de fermeture, ajoute :
 
-!\[Dépôt4 GitHub](<screenshots/Screenshot 2026-04-26 183713.png>)
 
-!\[Dépôt5 GitHub](<screenshots/Screenshot 2026-04-26 183738.png>)
 
-!\[Dépôt6 GitHub](<screenshots/Screenshot 2026-04-26 184525.png>)
+```markdown
 
-!\[Dépôt7 GitHub](<screenshots/Screenshot 2026-04-26 184701.png>)
+\## Captures d'écran
 
-!\[Dépôt8 GitHub](<screenshots/Screenshot 2026-04-26 184831.png>)
 
-!\[Dépôt9 GitHub](<screenshots/Screenshot 2026-04-26 184943.png>)
 
-!\[Dépôt10 GitHub](<screenshots/Screenshot 2026-04-26 184957.png>)
+!\[Capture 1](<screenshots/Screenshot 2026-04-26 182635.png>)
 
-!\[Dépôt11 GitHub](<screenshots/Screenshot 2026-04-26 185115.png>)
 
-!\[Dépôt12 GitHub](<screenshots/Screenshot 2026-04-26 185645.png>)
 
-!\[Dépôt13 GitHub](<screenshots/Screenshot 2026-04-26 190001.png>)
+!\[Capture 2](<screenshots/Screenshot 2026-04-26 182844.png>)
 
-!\[Dépôt14 GitHub](<screenshots/Screenshot 2026-04-26 190403.png>)
 
-!\[Dépôt15 GitHub](<screenshots/Screenshot 2026-04-26 190505.png>)
 
-!\[Dépôt16 GitHub](<screenshots/Screenshot 2026-04-26 190837.png>)
+!\[Capture 3](<screenshots/Screenshot 2026-04-26 183658.png>)
 
-!\[Dépôt17 GitHub](<screenshots/Screenshot 2026-04-26 190955.png>)
 
-!\[Dépôt18 GitHub](<screenshots/Screenshot 2026-04-26 191105.png>)
 
-!\[Dépôt19 GitHub](<screenshots/Screenshot 2026-04-26 191205.png>)
+!\[Capture 4](<screenshots/Screenshot 2026-04-26 183713.png>)
 
-!\[Dépôt20 GitHub](<screenshots/Screenshot 2026-04-26 192326.png>)
 
-!\[Dépôt21 GitHub](<screenshots/Screenshot 2026-04-26 192349.png>)
 
-!\[Dépôt22 GitHub](<screenshots/Screenshot 2026-04-26 192436.png>)
+!\[Capture 5](<screenshots/Screenshot 2026-04-26 183738.png>)
 
-!\[Dépôt23 GitHub](<screenshots/Screenshot 2026-04-26 192537.png>)
 
-!\[Dépôt24 GitHub](<screenshots/Screenshot 2026-04-26 192645.png>)
 
-!\[Dépôt25 GitHub](<screenshots/Screenshot 2026-04-26 202423.png>)
+!\[Capture 6](<screenshots/Screenshot 2026-04-26 184525.png>)
 
-!\[Dépôt26 GitHub](<screenshots/Screenshot 2026-04-26 202502.png>)
 
-!\[Dépôt27 GitHub](<screenshots/Screenshot 2026-04-26 202739.png>)
 
-!\[Dépôt28 GitHub](<screenshots/Screenshot 2026-04-26 202810.png>)
+!\[Capture 7](<screenshots/Screenshot 2026-04-26 184701.png>)
 
-!\[Dépôt29 GitHub](<screenshots/Screenshot 2026-04-26 202932.png>)
 
-!\[Dépôt30 GitHub](<screenshots/Screenshot 2026-04-26 203043.png>)
 
-!\[Dépôt31 GitHub](<screenshots/Screenshot 2026-04-26 204310.png>)
+!\[Capture 8](<screenshots/Screenshot 2026-04-26 184831.png>)
 
-!\[Dépôt32 GitHub](<screenshots/Screenshot 2026-04-26 204351.png>)
 
-!\[Dépôt33 GitHub](<screenshots/Screenshot 2026-04-26 204928.png>)
 
-!\[Dépôt34 GitHub](<screenshots/Screenshot 2026-04-26 205029.png>)
+!\[Capture 9](<screenshots/Screenshot 2026-04-26 184943.png>)
 
-!\[Dépôt35 GitHub](<screenshots/Screenshot 2026-04-26 205155.png>)
 
-!\[Dépôt36 GitHub](<screenshots/Screenshot 2026-04-26 205309.png>)
 
-!\[Dépôt37 GitHub](<screenshots/Screenshot 2026-04-26 210213.png>)
+!\[Capture 10](<screenshots/Screenshot 2026-04-26 184957.png>)
 
-!\[Dépôt38 GitHub](<screenshots/Screenshot 2026-04-26 210518.png>)
 
-!\[Dépôt39 GitHub](<screenshots/Screenshot 2026-04-26 210622.png>)
 
-!\[Dépôt40 GitHub](<screenshots/Screenshot 2026-04-26 210656.png>)
+!\[Capture 11](<screenshots/Screenshot 2026-04-26 185115.png>)
 
-!\[Dépôt 42 GitHub](<screenshots/Screenshot 2026-04-26 211008.png>)
 
-!\[Dépôt 43 GitHub](<screenshots/Screenshot 2026-04-26 211030.png>)
 
-!\[Dépôt 44 GitHub](<screenshots/Screenshot 2026-04-26 211548.png>)
+!\[Capture 12](<screenshots/Screenshot 2026-04-26 185645.png>)
+
+
+
+!\[Capture 13](<screenshots/Screenshot 2026-04-26 190001.png>)
+
+
+
+!\[Capture 14](<screenshots/Screenshot 2026-04-26 190403.png>)
+
+
+
+!\[Capture 15](<screenshots/Screenshot 2026-04-26 190505.png>)
+
+
+
+!\[Capture 16](<screenshots/Screenshot 2026-04-26 190837.png>)
+
+
+
+!\[Capture 17](<screenshots/Screenshot 2026-04-26 190955.png>)
+
+
+
+!\[Capture 18](<screenshots/Screenshot 2026-04-26 191105.png>)
+
+
+
+!\[Capture 19](<screenshots/Screenshot 2026-04-26 191205.png>)
+
+
+
+!\[Capture 20](<screenshots/Screenshot 2026-04-26 192326.png>)
+
+
+
+!\[Capture 21](<screenshots/Screenshot 2026-04-26 192349.png>)
+
+
+
+!\[Capture 22](<screenshots/Screenshot 2026-04-26 192436.png>)
+
+
+
+!\[Capture 23](<screenshots/Screenshot 2026-04-26 192537.png>)
+
+
+
+!\[Capture 24](<screenshots/Screenshot 2026-04-26 192645.png>)
+
+
+
+!\[Capture 25](<screenshots/Screenshot 2026-04-26 202423.png>)
+
+
+
+!\[Capture 26](<screenshots/Screenshot 2026-04-26 202502.png>)
+
+
+
+!\[Capture 27](<screenshots/Screenshot 2026-04-26 202739.png>)
+
+
+
+!\[Capture 28](<screenshots/Screenshot 2026-04-26 202810.png>)
+
+
+
+!\[Capture 29](<screenshots/Screenshot 2026-04-26 202932.png>)
+
+
+
+!\[Capture 30](<screenshots/Screenshot 2026-04-26 203043.png>)
+
+
+
+!\[Capture 31](<screenshots/Screenshot 2026-04-26 204310.png>)
+
+
+
+!\[Capture 32](<screenshots/Screenshot 2026-04-26 204351.png>)
+
+
+
+!\[Capture 33](<screenshots/Screenshot 2026-04-26 204928.png>)
+
+
+
+!\[Capture 34](<screenshots/Screenshot 2026-04-26 205029.png>)
+
+
+
+!\[Capture 35](<screenshots/Screenshot 2026-04-26 205155.png>)
+
+
+
+!\[Capture 36](<screenshots/Screenshot 2026-04-26 205309.png>)
+
+
+
+!\[Capture 37](<screenshots/Screenshot 2026-04-26 210213.png>)
+
+
+
+!\[Capture 38](<screenshots/Screenshot 2026-04-26 210518.png>)
+
+
+
+!\[Capture 39](<screenshots/Screenshot 2026-04-26 210622.png>)
+
+
+
+!\[Capture 40](<screenshots/Screenshot 2026-04-26 210656.png>)
+
+
+
+!\[Capture 41](<screenshots/Screenshot 2026-04-26 211008.png>)
+
+
+
+!\[Capture 42](<screenshots/Screenshot 2026-04-26 211030.png>)
+
+
+
+!\[Capture 43](<screenshots/Screenshot 2026-04-26 211548.png>)
 
